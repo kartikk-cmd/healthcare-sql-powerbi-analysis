@@ -4,25 +4,25 @@ This project analyzes hospital and patient data using an end-to-end data analyti
 
 # 📌 Project Goals
 
-• Extract, clean, and transform healthcare data using SQL.
-• Perform detailed patient and hospital trend analysis.
-• Build an interactive Power BI dashboard to visualize key hospital metrics.
-• Provide insights to support data-driven decision making for healthcare management.
+- Extract, clean, and transform healthcare data using SQL.
+- Perform detailed patient and hospital trend analysis.
+- Build an interactive Power BI dashboard to visualize key hospital metrics.
+- Provide insights to support data-driven decision making for healthcare management.
 
 ## 🧱 Repository Structure
 
-healthcare-sql-powerbi-analysis/
-│── healthcare.sql          # SQL script with queries for data cleaning & analysis
-│── healthcare_dataset.csv  # Sample dataset (if allowed to share)
-│── dashboard.pbix          # Power BI dashboard file
+<pre> healthcare-sql-powerbi-analysis/
+│── healthcare.sql
+│── healthcare_dataset.csv
+│── dashboard.pbix
 │── images/
-│    └── dashboard.png      # Screenshot of dashboard
-│── README.md               # Project documentation
+│    └── dashboard.png
+│── README.md  </pre>
 
 # 🗂️ Data Source
 
-• A hospital & patient dataset (synthetic / anonymized).
-• Includes patient demographics, admissions, departments, and discharge details.
+- A hospital & patient dataset (synthetic / anonymized).
+- Includes patient demographics, admissions, departments, and discharge details.
 
 # 🔄 Workflow (ETL → Analysis → Visualization)
 
@@ -37,26 +37,26 @@ healthcare-sql-powerbi-analysis/
 
 # 📊 Dashboard Highlights
 
-• Department Performance & Patient Load
-• Monthly Admissions & Trends
-• Average Patient Stay & Discharge Analysis
-• Key Insights for Hospital Administrators
+- Department Performance & Patient Load
+- Monthly Admissions & Trends
+- Average Patient Stay & Discharge Analysis
+- Key Insights for Hospital Administrators
 
 👉 👉 [**View Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiNTRhNDdhZDEtMDFkYy00NzIyLThiNjctMWYyNmI0ZDhkY2NhIiwidCI6ImJmYmExOWVlLWI5MGQtNGFiMi05OWYwLWYzZTA3MGE1MDUyZSJ9)
 
 
 # 🛠️ Tech Stack
 
-• SQL: Data extraction, joins, aggregations, subqueries.
-• Power BI: Data visualization & storytelling.
-• Excel/CSV: Raw data source.
+- SQL: Data extraction, joins, aggregations, subqueries.
+- Power BI: Data visualization & storytelling.
+- Excel/CSV: Raw data source.
 
 # 📊 Insights (Sample)
 
-• Departments with highest patient loads.
-• Seasonal trends in hospital admissions.
-• Average length of patient stay across departments.
-• Key patterns for hospital performance optimization.
+- Departments with highest patient loads.
+- Seasonal trends in hospital admissions.
+- Average length of patient stay across departments.
+- Key patterns for hospital performance optimization.
 
 # 📄 License
 
@@ -65,8 +65,8 @@ This project is open-source and available under the terms of the LICENSE file in
 # 🙋 Contact
 
 Author: Kartik Bhatore
-• GitHub: kartikk-cmd
-• LinkedIn: [Kartik Bhatore](www.linkedin.com/in/kartikbhatore)
-• Open to feedback, internships, and collaborations! 🚀
+- GitHub: kartikk-cmd
+- LinkedIn: [Kartik Bhatore](www.linkedin.com/in/kartikbhatore)
+- Open to feedback, internships, and collaborations! 🚀
 
 
