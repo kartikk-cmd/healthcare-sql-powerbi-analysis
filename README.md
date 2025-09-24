@@ -9,7 +9,7 @@ This project analyzes hospital and patient data using an end-to-end data analyti
 • Build an interactive Power BI dashboard to visualize key hospital metrics.
 • Provide insights to support data-driven decision making for healthcare management.
 
-# 🧱 Repository Structure
+## 🧱 Repository Structure
 
 healthcare-sql-powerbi-analysis/
 │── healthcare.sql          # SQL script with queries for data cleaning & analysis
@@ -68,4 +68,5 @@ Author: Kartik Bhatore
 • GitHub: kartikk-cmd
 • LinkedIn: [Kartik Bhatore](www.linkedin.com/in/kartikbhatore)
 • Open to feedback, internships, and collaborations! 🚀
+
 
