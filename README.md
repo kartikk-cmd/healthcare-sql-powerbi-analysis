@@ -58,15 +58,12 @@ This project analyzes hospital and patient data using an end-to-end data analyti
 - Average length of patient stay across departments.
 - Key patterns for hospital performance optimization.
 
-# 📄 License
-
-This project is open-source and available under the terms of the LICENSE file in this repository.
-
 # 🙋 Contact
 
 Author: Kartik Bhatore
 - GitHub: kartikk-cmd
 - LinkedIn: [Kartik Bhatore](www.linkedin.com/in/kartikbhatore)
 - Open to feedback, internships, and collaborations! 🚀
+
 
 
