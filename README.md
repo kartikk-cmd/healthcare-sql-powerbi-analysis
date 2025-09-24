@@ -42,7 +42,7 @@ healthcare-sql-powerbi-analysis/
 • Average Patient Stay & Discharge Analysis
 • Key Insights for Hospital Administrators
 
-# 👉 👉 [**View Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiNTRhNDdhZDEtMDFkYy00NzIyLThiNjctMWYyNmI0ZDhkY2NhIiwidCI6ImJmYmExOWVlLWI5MGQtNGFiMi05OWYwLWYzZTA3MGE1MDUyZSJ9)
+👉 👉 [**View Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiNTRhNDdhZDEtMDFkYy00NzIyLThiNjctMWYyNmI0ZDhkY2NhIiwidCI6ImJmYmExOWVlLWI5MGQtNGFiMi05OWYwLWYzZTA3MGE1MDUyZSJ9)
 
 
 # 🛠️ Tech Stack
@@ -68,3 +68,4 @@ Author: Kartik Bhatore
 • GitHub: kartikk-cmd
 • LinkedIn: [Kartik Bhatore](www.linkedin.com/in/kartikbhatore)
 • Open to feedback, internships, and collaborations! 🚀
+
